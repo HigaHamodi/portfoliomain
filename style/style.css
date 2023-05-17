@@ -61,7 +61,7 @@ main p {
     flex-direction: column;
     justify-content: center;
     background-color: #b3f3f7;
-    background-image: url(./assets/bg.jpeg);
+    background-image: url(../images/portfolios-images/bg.jpeg);
     background-blend-mode: multiply;
     background-size: cover;
 }
@@ -310,7 +310,7 @@ footer {
     display: flex;
     flex-direction: row;
     background-color: #b3f3f7;
-    background-image: url(./assets/bg.jpeg);
+    background-image: url(../images/portfolios-images/bg.jpeg);
     background-blend-mode: multiply;
     background-size: cover;
 }
